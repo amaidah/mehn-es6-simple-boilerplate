@@ -1,7 +1,7 @@
 {
-  "name": "MEHN Boilerplate",
+  "name": "MEHN ES6 Boilerplate",
   "version": "1.0.0",
-  "description": "ES6 node and client environment with sass",
+  "description": "MEHN ES6 node and client environment w/ sass, handlebars",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,7 +16,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.1",
     "express-handlebars": "^3.0.0",
