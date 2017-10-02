@@ -1,5 +1,5 @@
 {
-  "name": "MEHN ES6 Boilerplate",
+  "name": "mehn-es6-simple-boilerplate",
   "version": "1.0.0",
   "description": "MEHN ES6 node and client environment w/ sass, handlebars",
   "main": "app.js",
