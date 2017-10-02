@@ -4,7 +4,11 @@ Simple boilerplate for MEHN apps in a full ES6 environment
 
 ### Getting Started
 
-`npm install`
+- `npm install`
+- `git remote rm origin`
+- `git remote -v` // verify removal
+- `git remote add origin <your own>`
+- `git remote -v` // verify addition
 
 Serve production
 - `npm run start`
