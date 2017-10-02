@@ -29,5 +29,5 @@ No npm?
 - `npm -v`
 
 No brew? https://brew.sh/
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-`brew -v`
+- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- `brew -v`
