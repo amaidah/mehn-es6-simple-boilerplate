@@ -1,6 +1,6 @@
 Simple boilerplate for MEHN apps in a full ES6 environment
 - Uses only package.json scripts
-- Must have xcode, node, npm, sass, rollup installed
+- Must have xcode, node, npm, sass, rollup, nodemon installed
 
 ### Getting Started
 
@@ -17,3 +17,7 @@ Serve production
 
 Serve dev server
 - `npm run dev`
+
+### Notes
+
+- This is what I use to build mehn apps, pkg json scripts depend on globally installed sass, rollup, nodemon
